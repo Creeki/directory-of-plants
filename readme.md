@@ -11,6 +11,6 @@
 - 微信公众号:gzhu_nature
  
 -----------------
- Copyright ?2010 - 2018 GZHU_nature. All Rights Reserved.
+ Copyright &copy;2010 - 2018 GZHU_nature. All Rights Reserved.
   
  广大自然博物 版权所有
